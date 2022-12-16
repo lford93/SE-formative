@@ -11,7 +11,7 @@ A simple HTML page, where users can easily navigate to the iconic "Tears in Rain
 
 ## Project Management 
 
-![project_board](https://user-images.githubusercontent.com/120586818/208080393-97eba898-b632-4ece-9853-46cf22ece8bd.png)
+![project_board](https://user-images.githubusercontent.com/120586818/208093458-a39e1d39-00d8-472a-bdbd-2a5a88196d9c.png)
     
 In this project, I use GitHub's Project Tracker to manage issues and follow the kanban methodology. This allows me to continuously improve and visualize my workflow on a regular basis, organizing tasks according to priority. By using the Project Tracker, I am able to maintain an efficient and effective workflow.
 
