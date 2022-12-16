@@ -1,0 +1,15 @@
+body {
+	background-color: #678F8E;
+}
+
+.box {
+	position: absolute;
+	width: 600px;
+	height: 171px;
+	left: 564px;
+	top: 254px;
+	
+	background: #0C2833;
+	border: 1px solid #000000
+	border-radius: 10px;
+}
