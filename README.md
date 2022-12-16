@@ -3,6 +3,12 @@ This project is part of the Software Engineering formative assignment. The proje
 
 ---
 
+## Purpose
+
+A simple HTML page, where users can easily navigate to the iconic "Tears in Rain" monologue from the 1982 film Blade Runner. This famous speech, delivered by character Roy Batty in one of the most memorable death scenes in science fiction cinema, has been widely quoted and remains a classic of the genre. We hope you enjoy this tribute to one of the most memorable moments in film history."
+
+---
+
 ## Project Management 
 
 ![project_board](https://user-images.githubusercontent.com/120586818/208080393-97eba898-b632-4ece-9853-46cf22ece8bd.png)
