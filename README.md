@@ -20,3 +20,13 @@ The workflow will work as such:
 Raise issue -> To do -> move to In progress when work begins -> create pull request and move issue and pull request to review -> once finalised merge pull request and move issue to Done
 
 ---
+
+## Prototyping
+
+In order to begin my project, I started conceptualising the design of the HTML file in Figma. Figma is a cloud-based design tool. I was able to paste screenshots into the Figma enviroment to get some inspiration for what I have created. I could also decide a colour palette. Two prototypes were designed.
+
+![figma_page](https://user-images.githubusercontent.com/120586818/208135472-b44a2807-f4d3-40ac-b1ba-0f9f1c4875a8.png)
+
+The screenshot provided above shows the two prototypes designed in Figma and the other items contained in the workspace.
+
+The prototype selected as the final page is prototype 1. This is sits in the repository as ![Prototype.png](https://github.com/lford93/SE-formative/blob/main/Prototype%201.png)
